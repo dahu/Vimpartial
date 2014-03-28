@@ -1,0 +1,11 @@
+Vimpartial
+----------
+
+__Sometimes expand('<cword>') just isn't enough__
+
+TIP: If you like Vimpartial and want to share the W00t!, I'm grateful for
+https://www.gittip.com/bairuidahu/[tips] or
+http://of-vim-and-vigor.blogspot.com/[beverages].
+
+Vimpartial is a tiny plugin that stores the current partial-word as you're
+typing in insert mode into the buffer-local variable, `b:partial_word`

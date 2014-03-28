@@ -1,0 +1,20 @@
+*vimpartial.txt*	Collect current b:partial_word as you're typing
+
+
+			VIM REFERENCE MANUAL	by Barry Arthur
+
+
+Help on using vimpartial                                      *vimpartial*
+
+1. Introduction				|vimpartial-intro|
+
+==============================================================================
+ 1. INTRODUCTION                                        *vimpartial-intro*
+
+Vimpartial is a tiny plugin that stores the current partial-word as you're
+typing in insert mode into the buffer-local variable, b:partial_word
+
+==============================================================================
+
+Template From: https://github.com/dahu/Area-41/
+ vim:tw=78:ts=8:ft=help:norl:
